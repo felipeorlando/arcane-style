@@ -78,7 +78,7 @@ Leave out photoreal pores, smooth plastic family-film shading, chibi proportions
 
 ## What this is based on
 
-Stills were looked at directly. Dates are the post dates. The prompt blocks above are a fresh template, not a copy of any caption.
+Stills were looked at directly. Dates are the post dates. The prompt blocks above are a fresh template, not a copy of any caption. Downloaded public sheets are listed in [references/INDEX.md](../../references/INDEX.md).
 
 **Supplied bibles (names were not found in the post searches).** Six wide sheets, same skeleton: brush name, `ROLE / PLACE`, action hero over a painted place and a colored splash, `TURNAROUND` front/side/back on white, a 2×2 `DETAILS` block (face, eye, hair or garment, prop), an isolated object on some of them (bike, rope, balls, sash, necklace), four or five chips, short tagline. Subjects were a BMX rider, a jump-rope athlete, a bar athlete, a capoeira dancer, a breakdancer, and a street juggler. These are the softer, more gouache end of the look: painted skin, pressure in the line, architecture suggested in watercolor. The breakdancer chips are brush swatches; the others are flat blocks. Use the layout. Do not reuse the people.
 

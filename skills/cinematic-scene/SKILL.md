@@ -91,7 +91,7 @@ A 16:9 sunlit piece with soft fur, volumetric sun, and no ink contour is a diffe
 
 ## What this is based on
 
-Clips were checked by extracting frames several seconds apart from the video files. They were not played as a continuous screening, and the audio was not heard. Captions on the posts describe a continuous score and hard impacts; that audio was not verified. The prompt above is a fresh template.
+Clips were checked by extracting frames several seconds apart from the video files. They were not played as a continuous screening, and the audio was not heard. Captions on the posts describe a continuous score and hard impacts; that audio was not verified. The prompt above is a fresh template. The frames kept for the square clips are listed in [references/INDEX.md](../../references/INDEX.md).
 
 Every square clip below is 720×720 in the file that was sampled, with the scene on top and the poster plate underneath. Durations are from the files.
 

@@ -15,6 +15,8 @@ Use the character skill first when a scene should stay on-model. Use the scene s
 
 Point an agent at `skills/`, or copy a skill folder into `.cursor/skills/`.
 
+The downloaded sheets and the extracted frames are in [`references/`](references/INDEX.md). That index is the catalog. The skill prompts stay style-only.
+
 ## What turned out to be stable
 
 The three-column bible is a real, repeated product: action hero on the left, neutral front/side/back turnaround in the center, detail callouts and color chips on the right, brush name and a short tagline. It is the layout to reuse for a new character.
@@ -27,4 +29,4 @@ The render is what travels from the bible, to the poster, to the scene: half pai
 
 Public posts on X were read through the API, including full long-post text. Stills were downloaded. Eleven clips were checked by pulling frames a few seconds apart (the files are 24 fps; the square ones are about 14–20 seconds). Audio was not played. A web-search tool hit a rate limit, so dating relied on the posts and on the stills supplied with the task.
 
-The six supplied street-athlete bibles match the three-column grammar. Searches for their printed names and taglines did not return those sheets. The same layout is on the public timeline on 6, 7, and 22 Sep 2026. Sources and dates are listed at the bottom of each skill.
+The six supplied street-athlete bibles match the three-column grammar. Searches for their printed names and taglines did not return those sheets, so they are not in `references/`. The same layout is on the public timeline on 6, 7, and 22 Sep 2026, and those files are in the index.
